@@ -1,6 +1,6 @@
 {
   "name": "npm-matauang",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "nyoba bikin npm",
   "main": "index.js",
   "scripts": {
